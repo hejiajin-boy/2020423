@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    width: 200px;
+    height: 300px;
+    background-color: pink;
+    font-size: 50px;
+    color: yellowgreen;
+    box-shadow: 20px 10px 5px 15px red;
+    text-align: center;
+    line-height: 300px;
+    margin: 0 auto;
+    text-decoration: none;
+}
